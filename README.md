@@ -9,11 +9,12 @@ Explain the fields: CityNameEn, CityNameAr, Country, Population, etc.
 ## Available Formats
 | File           | Format | Description            |
 |----------------|--------|------------------------|
-| cities.json    | JSON   | Grouped by country     |
-| cities.jsonl   | JSONL  | One city per line      |
-| cities.csv     | CSV    | Flat structure         |
-| cities.xlsx    | Excel  | Spreadsheet-friendly   |
-| import.sql     | SQL    | Insert statements      |
+| world-cities.json    | JSON   | Grouped by country     |
+| world-cities.jsonl   | JSONL  | One city per line      |
+| world-cities.csv     | CSV    | Flat structure         |
+| world-cities.xlsx    | Excel  | Spreadsheet-friendly   |
+| world-cities-raw.sql | SQL    | Insert statements      |
+| world-cities.sql     | SQL    | Insert statements      |
 
 ## Example (JSON)
 
@@ -55,5 +56,5 @@ You can use, share, or modify it — just give credit.
 
 ## 👤 Author
 
-Created by **[Jamshaid Kamran](https://github.com/jamshaidkamran)**
-Connect on [LinkedIn](https://www.linkedin.com/in/jamshaidkamran) or [Twitter](https://twitter.com/) (optional)
+Created by **[Jamshaid Kamran](https://github.com/jamsshhayd)**
+Connect on [LinkedIn](https://www.linkedin.com/in/jamsshhayd)
