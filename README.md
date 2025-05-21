@@ -1,7 +1,7 @@
 # World Cities with Arabic Translations
 
 ## Overview
-Brief description about what this dataset is, why it’s useful.
+Multilingual dataset of world cities with English and Arabic names, population, and country info. Provided in JSON, CSV, SQL, Excel formats.
 
 🏷️ Tags: dataset, world cities, Arabic, translations, JSON, CSV, SQL, open data, localization, multilingual, geonames, Wikidata, global cities
 
