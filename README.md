@@ -3,8 +3,8 @@
 ## Overview
 Brief description about what this dataset is, why it’s useful.
 
-> 🏷️ Tags: dataset, world cities, Arabic, translations, JSON, CSV, SQL, open data, localization, multilingual, geonames, Wikidata, global cities
-> 🌐 Languages: English, Arabic
+🏷️ Tags: dataset, world cities, Arabic, translations, JSON, CSV, SQL, open data, localization, multilingual, geonames, Wikidata, global cities
+🌐 Languages: English, Arabic
 ## Dataset Format
 Explain the fields: CityNameEn, CityNameAr, Country, Population, etc.
 
