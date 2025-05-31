@@ -24,7 +24,8 @@ Explain the fields: CityNameEn, CityNameAr, Country, Population, etc.
 
 ```json
 {
-  "Country": "Spain",
+  "CountryNameEn": "Spain",
+"CountryNameAr": "إسبانيا",
   "Cities": [
     {
       "CityNameEn": "Madrid",
