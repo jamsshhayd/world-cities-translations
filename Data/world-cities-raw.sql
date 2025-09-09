@@ -1,4 +1,4 @@
- 
+﻿ -- Added Comments for testing
 CREATE TABLE [dbo].[Cities](
 	[Id] [int] IDENTITY(1,1) NOT NULL,
 	[CountryId] [int] NULL,
