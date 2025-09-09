@@ -1,4 +1,4 @@
-﻿ -- Added Comments for testing - 123
+﻿ -- Added Comments for testing - 123 00000000000
 CREATE TABLE [dbo].[Cities](
 	[Id] [int] IDENTITY(1,1) NOT NULL,
 	[CountryId] [int] NULL,
